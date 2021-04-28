@@ -1,0 +1,38 @@
+div
+{
+  background-color: red;
+  font-style: italic;
+  padding-left: 600px;
+  line-height: 130px;
+  margin-top: -20px;
+}
+.color1
+{
+  color: whitesmoke;
+  border-style: dotted;
+  border: dotted 3px;
+  border-color: black;
+}
+.color3
+{
+  color: black;
+  background-color: blue;
+  line-height: 100px;
+  margin-top: 22px;
+  padding-left: 675px;
+  border-style: solid;
+  border: solid 3px;
+}
+.color2
+{
+  color: black;
+}
+span
+{
+  font-weight: bold;
+  background-color: yellow;
+  line-height: 485px;
+  padding: 250px 638px;
+  border-style: solid;
+  border: solid 3px;
+}

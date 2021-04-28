@@ -1,0 +1,51 @@
+div
+{
+  background-color: red;
+  font-style: italic;
+  padding-left: 600px;
+  line-height: 130px;
+  margin-top: -20px;
+}
+.color1
+{
+  color: whitesmoke;
+  border-style: dotted;
+  border: dotted 3px;
+  border-color: black;
+}
+.color3
+{
+  color: black;
+  background-color: blue;
+  line-height: 122.5px;
+  margin-top: -147px;
+  margin-left: 500px;
+  padding-left: 425px;
+  border-style: solid;
+  border: solid 3px;
+}
+.color2
+{
+  color: black;
+}
+.color4
+{
+  font-style: italic;
+  background-color: darkorange;
+  border-style: solid;
+  border: solid 3px;
+  margin-right: 1002px;
+  margin-top: -527px;
+  padding: 50px 65px;
+
+}
+span
+{
+  font-weight: bold;
+  background-color: yellow;
+  line-height: 485px;
+  margin-left: 500px;
+  padding: 250px 388.7px;
+  border-style: solid;
+  border: solid 3px;
+}
