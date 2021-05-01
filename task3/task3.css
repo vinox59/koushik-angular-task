@@ -1,0 +1,100 @@
+/* reseting the origin  */
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* adding the body font and line height spacing */
+body
+{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  line-height: 1.5em;
+}
+/* reseting the text decoration to none and added color black for font */
+a
+{
+  text-decoration: none;
+  color: black;
+}
+/* div class adjust, setting the margin and width*/
+.adjust
+{
+  margin: auto;
+  max-width: 90%;
+  overflow: auto;
+  padding: 0px;
+}
+/* color for navbar*/
+#navbar
+{
+background-color: paleturquoise;
+overflow: auto;
+}
+/* adjusting the image to left*/
+#navbar .logo img
+{
+ float: left;
+ padding-top: 1px;
+}
+/* adjusting the text w3schools with color, padding, fonts*/
+#navbar .logo a
+{
+  float: left;
+  color: darkblue;
+  padding-left: 10px;
+  padding-top: 25px;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  font-size: xx-large;
+}
+/* padding w3schools text to center */
+#navbar h1
+{
+  float: left;
+  padding-top: 5px;
+}
+/* removing the ul lists style to none and aligning to right*/
+#navbar ul
+{
+  list-style: none;
+  float: right;
+}
+/* aliging the lists to left from corner right*/
+#navbar ul li
+{
+  float: left;
+}
+/* aliging the lists with padding */
+#navbar ul li a
+{
+  display: block;
+  padding: 30px;
+  text-align: center;
+}
+/* hover used to display color on mouse movement */
+#navbar ul li a:hover, #navbar ul li a.index
+{
+  background: slategray ;
+  color: whitesmoke;
+}
+/* color for block element */
+.color1
+{
+  background-color: gainsboro;
+  height: 650px;
+}
+/* color for inline element and displaying both */
+.color2
+{
+  display: inline-block;
+  background-color: lightyellow;
+  height: 650px;
+  width: 25%;
+  padding-top: 300px;
+  padding-left: 100px;
+  font-size: xx-large;
+  font-style: italic;
+  font-weight: bolder;
+}
